@@ -1,0 +1,5 @@
+{
+  "appId": "com.aiassistant.app",
+  "appName": "AI Writing Assistant",
+  "webDir": "packages/frontend/dist"
+}
